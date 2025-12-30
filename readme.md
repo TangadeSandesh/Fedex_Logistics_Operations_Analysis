@@ -25,7 +25,7 @@ The dataset contains logistics-related information such as:
 - Shipment status
 - Operational timelines
 
-> ⚠️ Note: Tthe dataser is taken from the kaggle.
+> ⚠️ Note: Tthe datasert is taken from the kaggle, publicly available.
 
 ---
 
